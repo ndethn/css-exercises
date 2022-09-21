@@ -1,0 +1,23 @@
+
+/* 
+includes class selector and type selector
+.container p {
+    background-color: rgb(255, 255, 0);
+}
+
+includes type selector and class selector
+div .text {
+    background-color: pink;
+}
+
+includes both type selectors
+div p {}
+*/
+
+/* includes both class selectors */
+.container .text  {
+    background-color: #ffff00;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
