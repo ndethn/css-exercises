@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(255, 157, 173);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#elm2 {
+    color: rgb(100, 100, 242);
+    font-size: 36px;
+}
+
+.elm3 {
+    font-size: 24px;
+}
+
+#elm4 {
+    background-color: rgb(95, 175, 95);
+    font-size: 24px;
+    font-weight: bold;
+}
